@@ -16,5 +16,8 @@
     "typescript": "^3.6.2",
     "webpack": "^4.39.3",
     "webpack-dev-server": "^3.8.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
   }
 }
