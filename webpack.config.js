@@ -32,7 +32,7 @@ module.exports = {
   },
 
   module: {
-    loaders: [
+    rules: [
       // .ts(x) files should first pass through the TS loader, and then through babel
       {
         test: /\.tsx?$/,
